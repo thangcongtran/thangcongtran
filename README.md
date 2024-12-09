@@ -31,9 +31,9 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 
 - **Name**: hasht
 - **From**: VietNam
-- **Cybersecurity Researcher | Bug Hunter | Malware Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,Social engineering,spy.
--**Reverse Engineering**, **Malware Analysis**
+- **Red Team | Cybersecurity Researcher | Malware Analyst**
+- I'm a passionate **Red Team Specialist**, **Bug Hunter**, and **Malware Analyst** with a strong background in offensive security practices. My focus is on discovering vulnerabilities, reverse engineering, and simulating real-world cyber-attacks to help organizations strengthen their defenses.
+-**Penetration Testing**, **Vulnerability Assessment**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
 - Reach me out at **thangtran@duck.com**
