@@ -44,7 +44,7 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align='right' src="https://i.gifer.com/U1c.gif">
 
 👉 Still Learning Bug hunting & malware forensics.
 
