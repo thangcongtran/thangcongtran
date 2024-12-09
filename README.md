@@ -1,11 +1,12 @@
 
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=the+quieter+you+become,+the+more+you+are+able+to+hear" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=One+life,+live+it.+.+." alt="Typing SVG" />
   </a>
 </div>
+
 
 
 <img width="28%" align='right' src="https://i.gifer.com/EmhT.gif">
