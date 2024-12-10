@@ -18,21 +18,28 @@
 ## **`hasht`**  
 *"When darkness falls, I rise—living in the shadows of your mistakes."*
 
-I thrive in the world of vulnerabilities, where others see weaknesses, I see opportunities. With a relentless passion for cybersecurity, I hunt for flaws, dissect malware, and break barriers to build stronger defenses. Every mistake you make is a chance for me to rise and make the digital world a safer place. My mission? To secure the virtual world, one vulnerability at a time or not ;)
+I thrive in the world of vulnerabilities, where others see weaknesses, I see opportunities. With a relentless passion for cybersecurity, I hunt for flaws, dissect malware, and break barriers to build stronger defenses. Every mistake you make is a chance for me to rise and make the digital world a safer place. My mission? To secure the virtual world, one vulnerability at a time... or not ;)
 
 <details>
   <summary>More about me</summary>
-- **Name**: hasht
-- **From**: VietNam
-- **Red Team | Cybersecurity Researcher | Malware Analyst**
-- I'm a passionate **Red Team Specialist**, **Bug Hunter**, and **Malware Analyst** with a strong background in offensive security practices. My focus is on discovering vulnerabilities, reverse engineering, and simulating real-world cyber-attacks to help organizations strengthen their defenses.
--**Penetration Testing**, **Vulnerability Assessment**
-- Improving knowledge in **Website Vulnerabilities**
-- I’m currently learning **everything** 
-- Reach me out at **thangtran@duck.com**
+  
+- **Name**: hasht  
+- **From**: VietNam  
+- **Role**: Red Team | Cybersecurity Researcher | Malware Analyst  
 
+I'm a passionate **Red Team Specialist**, **Bug Hunter**, and **Malware Analyst** with a strong background in offensive security practices. My focus is on discovering vulnerabilities, reverse engineering, and simulating real-world cyber-attacks to help organizations strengthen their defenses.  
+
+- **Specializations**:
+  - Penetration Testing  
+  - Vulnerability Assessment  
+  - Improving knowledge in **Website Vulnerabilities**
+
+I’m currently learning **everything**.  
+
+Feel free to reach out to me at **thangtran@duck.com** (if this is a valid email, otherwise update to a professional one).
 </details>
 <br>
+
 ---
 
 ## 🎯 TryHackMe Achievements
