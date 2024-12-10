@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=In+the+darkness,+we+are+all+the+same.+.+." alt="Typing SVG" />
   </a>
 </div>
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" alt="TryHackMe Badge" />
+
 
 <img width="28%" align='right' src="https://i.gifer.com/EmhT.gif">
 
