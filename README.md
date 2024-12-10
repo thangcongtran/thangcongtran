@@ -20,10 +20,6 @@
 
 I thrive in the world of vulnerabilities, where others see weaknesses, I see opportunities. With a relentless passion for cybersecurity, I hunt for flaws, dissect malware, and break barriers to build stronger defenses. Every mistake you make is a chance for me to rise and make the digital world a safer place. My mission? To secure the virtual world, one vulnerability at a time or not ;)
 
-
-
-
-
 <details>
   <summary>More about me</summary>
 - **Name**: hasht
