@@ -35,6 +35,7 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
 - Reach me out at **thangtran@duck.com**
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" style='border:none;'></iframe>
 
 </details>
 <br>
@@ -60,7 +61,6 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" style='border:none;'></iframe>
 <br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
