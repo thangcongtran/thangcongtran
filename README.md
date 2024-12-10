@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/prepare.gif" width="100%" height="auto"/></p>
 
 <div align="center">
@@ -110,7 +109,7 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 
 </details>
 
-
+<p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/i-am-free-anonymous.1920x1080.mp4" width="100%" height="auto"/></p>
 
 
 <p align="center">
