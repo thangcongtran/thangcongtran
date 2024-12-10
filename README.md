@@ -5,10 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=In+the+darkness,+we+are+all+the+same.+.+." alt="Typing SVG" />
   </a>
 </div>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" 
-        style="border:none; width: 100%; height: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-</iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" alt="TryHackMe Badge" />
 
 <img width="28%" align='right' src="https://i.gifer.com/EmhT.gif">
 
