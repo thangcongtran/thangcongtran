@@ -33,6 +33,12 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 
 </details>
 <br>
+---
+
+## 🎯 TryHackMe Achievements
+
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927)
+
 
 ---
 
