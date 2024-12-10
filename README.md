@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/i-am-free-anonymous.1920x1080.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/prepare.gif" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
