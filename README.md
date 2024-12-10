@@ -41,14 +41,13 @@ Feel free to reach out to me at **thangtran@duck.com** (if this is a valid email
 <br>
 
 ---
+---
 
 ## 🎯 TryHackMe Achievements
 
 ![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927)
 
-
 ---
-
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://i.gifer.com/U1c.gif">
