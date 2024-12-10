@@ -6,7 +6,9 @@
   </a>
 </div>
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" 
+        style="border:none; width: 100%; height: 400px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</iframe>
 
 <img width="28%" align='right' src="https://i.gifer.com/EmhT.gif">
 
@@ -60,7 +62,7 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 ---
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3221927" style='border:none;'></iframe>
+
 <br>
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
