@@ -50,9 +50,9 @@ Feel free to reach out to me at **thangtran@duck.com** (if this is a valid email
 
 👉 **Still Learning** Bug hunting & malware forensics  
 👉 Managing **Tech Communities** & creating **content**  
-👉 Writing **useful tools** for myself and the cybersecurity community  
+👉 Writing **Useful Tools** for myself and the cybersecurity community  
 👉 Building & Contributing to **Open Source Projects**  
-👉 Currently learning **mobile pentesting** & **Web3**
+👉 Currently learning **Mobile Pentesting** & **Web3**
 
 I'm updating my journey to becoming a **Cybersecurity Specialist** with each passing day.
 
