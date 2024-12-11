@@ -123,6 +123,12 @@ I'm updating my journey to becoming a **Cybersecurity Specialist** with each pas
 ---
 
 
+## 🏆 My TryHackMe Badge
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/thangcongtran.png)
+
+I enjoy sharpening my skills on [TryHackMe](https://tryhackme.com), an interactive platform that makes learning cybersecurity fun and engaging. Feel free to check out my progress and challenges solved.
+
+---
 <h2 id="donate" align=''> Support⚡️</h2>
 <p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/i-am-free-anonymous.1920x1080.gif" width="100%" height="auto"/></p>
 
