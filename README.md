@@ -130,14 +130,13 @@ I enjoy sharpening my skills on [TryHackMe](https://tryhackme.com/r/p/thangcongt
 
 ---
 <h2 id="donate" align=''> Support⚡️</h2>
-<p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/i-am-free-anonymous.1920x1080.gif" width="100%" height="auto"/></p>
 
 <details>
 <summary>Buy Me A Coffee</summary>
 
 <p align="center"><img src="" width="80%" height="auto"/></p>
 
-<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src=""/>Updatinggg...</a></p>
+<p align="center"><a href="https://buymeacoffee.com/coffinxp"><img  src=""/>Update later</a></p>
 
 </details>
 
