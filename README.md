@@ -21,7 +21,7 @@
 I thrive in the world of vulnerabilities, where others see weaknesses, I see opportunities. With a relentless passion for cybersecurity, I hunt for flaws, dissect malware, and break barriers to build stronger defenses. Every mistake you make is a chance for me to rise and make the digital world a safer place. My mission? To secure the virtual world, one vulnerability at a time... or not ;)
 
 <details>
-  <summary>More about me</summary>
+  <summary>📍 More About Me</summary>
   
 - **Name**: hasht  
 - **From**: VietNam  
@@ -29,10 +29,14 @@ I thrive in the world of vulnerabilities, where others see weaknesses, I see opp
 
 I'm a passionate **Red Team Specialist**, **Bug Hunter**, and **Malware Analyst** with a strong background in offensive security practices. My focus is on discovering vulnerabilities, reverse engineering, and simulating real-world cyber-attacks to help organizations strengthen their defenses.  
 
-- **Specializations**:
-  - Penetration Testing  
-  - Vulnerability Assessment  
-  - Improving knowledge in **Website Vulnerabilities**
+I’m always hungry for knowledge and constantly improving my skills to stay on top of the ever-evolving world of cybersecurity.
+
+-🔍 **Specializations**:
+- **Penetration Testing**
+- **Vulnerability Assessment**
+- **Website Vulnerabilities**
+- **Malware Analysis & Reverse Engineering**
+- **Bug Hunting & Exploit Development**
 
 I’m currently learning **everything**.  
 
@@ -41,21 +45,17 @@ Feel free to reach out to me at **thangtran@duck.com** (if this is a valid email
 <br>
 
 ---
-<h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://i.gifer.com/U1c.gif">
+### 🚀 **Present Status**:
 
-👉 Still Learning Bug hunting & malware forensics.
+👉 **Still Learning** Bug hunting & malware forensics  
+👉 Managing **Tech Communities** & creating **content**  
+👉 Writing **useful tools** for myself and the cybersecurity community  
+👉 Building & Contributing to **Open Source Projects**  
+👉 Currently learning **mobile pentesting** & **Web3**
 
-👉 Managing Tech Communities & Content creator.
+I'm updating my journey to becoming a **Cybersecurity Specialist** with each passing day.
 
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
 
 ---
 
@@ -83,6 +83,12 @@ Feel free to reach out to me at **thangtran@duck.com** (if this is a valid email
                       <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
         <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="raspberrypi" width="65px" height="65px" /><br>Raspberry Pi
       </td>
+                          <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65px" height="65px" /><br>AWS
+      </td>
+      <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="My SQL" width="65px" height="65px" /><br>My SQL
+      </td>
     </tr>
     <tr>
       <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
@@ -102,6 +108,12 @@ Feel free to reach out to me at **thangtran@duck.com** (if this is a valid email
       </td>
             <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgitlab.com%2Fuploads%2F-%2Fsystem%2Fproject%2Favatar%2F11904411%2Fkali-wireshark.png&f=1&nofb=1&ipt=7ffab43262121d31cc29186fd968978a5cdab9a1469998ac3a6aa3d85a419033&ipo=images" alt="Wireshark" width="65px" height="65px" /><br>Wireshark
+      </td>
+        <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F25502277%3Fs%3D400%26v%3D4&f=1&nofb=1&ipt=4b1fed4a7da6caefdfb92dcc984d42a0ac2d998a5251cee6d375e012c14f58da&ipo=images" alt="BloodHound" width="65px" height="65px" /><br>BloodHound
+      </td>
+                  <td class="cell" align="center" style="width: 16.666%; min-width: 100px; max-width: 150px; white-space: nowrap;">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgitlab.com%2Fuploads%2F-%2Fsystem%2Fproject%2Favatar%2F25949114%2Fkali-hashcat.png&f=1&nofb=1&ipt=b3410108b0429eb4ca24fca9b474f00ccd204f1b210875be120c4a84cafa4613&ipo=images" alt="Hastcat" width="65px" height="65px" /><br>Hashcat
       </td>
       </tr>
   </table>
