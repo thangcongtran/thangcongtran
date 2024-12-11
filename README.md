@@ -126,7 +126,7 @@ I'm updating my journey to becoming a **Cybersecurity Specialist** with each pas
 ## 🏆 My TryHackMe Badge
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/thangcongtran.png)
 
-I enjoy sharpening my skills on [TryHackMe](https://tryhackme.com), an interactive platform that makes learning cybersecurity fun and engaging. Feel free to check out my progress and challenges solved.
+I enjoy sharpening my skills on [TryHackMe](https://tryhackme.com/r/p/thangcongtran), an interactive platform that makes learning cybersecurity fun and engaging. Feel free to check out my progress and challenges solved.
 
 ---
 <h2 id="donate" align=''> Support⚡️</h2>
