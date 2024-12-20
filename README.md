@@ -129,12 +129,13 @@ I'm updating my journey to becoming a **Cybersecurity Specialist** with each pas
 I enjoy sharpening my skills on [TryHackMe](https://tryhackme.com/r/p/thangcongtran), an interactive platform that makes learning cybersecurity fun and engaging. Feel free to check out my progress and challenges solved.
 
 ---
+<p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/i-am-free-anonymous.1920x1080.gif" width="100%" height="auto"/></p>
+
 <h2 id="donate" align=''> Support⚡️</h2>
 
 <details>
 <summary>Buy Me A Coffee</summary>
   
-<p align="center"><img src="https://github.com/thangcongtran/assets/blob/main/i-am-free-anonymous.1920x1080.gif" width="100%" height="auto"/></p>
 
 <p align="center"><img src="" width="80%" height="auto"/></p>
 
